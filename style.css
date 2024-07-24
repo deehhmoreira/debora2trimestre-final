@@ -1,0 +1,24 @@
+body {background-color:rgb(59, 131, 59);
+}
+h1{text-align: center;color: rgb(10, 17, 17);
+}
+#img1 {border-color: aquamarine;
+      border-style: dotted ;
+       border-width: 30;}
+#img1{width: 30%;}
+h2{text-align: center;color: rgb(214, 235, 26);
+}
+#img2 {width: 20%;
+}
+h3{text-align: center;color: rgb(233, 229, 20);
+}
+  #img3{width: 30%;
+}
+  #img3 {margin-left: 35%;
+}
+ h4{text-align: center;color: black;
+}
+  #img4{width: 100%;
+}
+#img4{margin-left: 0%;
+}
